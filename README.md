@@ -1,2 +1,2 @@
 # urdu-asr-whisper
-urdu automatic speech recognition with whisper 
+check out https://huggingface.co/spaces/mwz/urdu-asr
